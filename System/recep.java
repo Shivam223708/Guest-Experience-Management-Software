@@ -173,7 +173,6 @@ public static class recep extends  JFrame{
             }
         });
 
-
         setVisible(true);
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
